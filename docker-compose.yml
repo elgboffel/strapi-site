@@ -48,4 +48,5 @@ services:
 
 networks:
   strapi:
+    name: Strapi
     driver: bridge
